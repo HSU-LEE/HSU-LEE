@@ -5,7 +5,7 @@
 
 ## 👋 About Me  
 #### 🤖 Robotics & AI Developer  
-#### 💬 My Name : **Harrison Lee**  
+#### 🏫 Way Maker School Member  
 <br/>
 
 ## 💡 Tech Stack
