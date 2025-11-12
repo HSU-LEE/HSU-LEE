@@ -1,5 +1,5 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=👋%20Hi!%20I'm%20Harrison%20Lee&fontAlignY=40&fontColor=ffffff&desc=Robotics%20%26%20AI%20Developer%20|%20Way%20Maker%20School&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20I'm%20Harrison%20Lee&fontAlignY=40&fontColor=ffffff&desc=Robotics%20and%20AI%20Developer%20-%20Way%20Maker%20School&descAlignY=60)
 
 ---
 
