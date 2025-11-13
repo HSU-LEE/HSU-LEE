@@ -64,9 +64,6 @@
 ---
 
 ## 🏆 Competitions  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=S2-ai-team&theme=tokyonight&hide_border=false&date_format=%5BY%20%5DM%20j"/>
-</p>
 
 | 🏅 Year | Competition | Result |
 |:--:|:--|:--|
