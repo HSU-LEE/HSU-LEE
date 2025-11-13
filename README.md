@@ -65,6 +65,8 @@
 
 ## 🏆 Competitions  
 
+
+
 | 🏅 Year | Competition | Result |
 |:--:|:--|:--|
 | 2025 | 제14회 로봇융합페스티벌 IRO Camp AI Soccer | 🥇 1등 (대전시 교육감상) |
