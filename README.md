@@ -51,6 +51,8 @@
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/AVR-EE4C2C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bambu%20Lab-76B900?style=for-the-badge&logo=bambulab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Autodesk%20Fusion%20360-FF6F00?style=for-the-badge&logo=Autodesk&logoColor=white"/>
 </p>
 
 ### ☁️ Cloud / Database  
@@ -65,8 +67,6 @@
 
 ## 🏆 Competitions  
 
-
-
 | 🏅 Year | Competition | Result |
 |:--:|:--|:--|
 | 2025 | 제14회 로봇융합페스티벌 IRO Camp AI Soccer | 🥇 1등 (대전시 교육감상) |
@@ -80,16 +80,6 @@
 
 ---
 
-## 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S2-ai-team&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S2-ai-team&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=S2-ai-team&theme=tokyonight&no-frame=true&margin-w=10&column=5"/>
-</p>
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+## 📬 Contact  
+- **Email:** harry.srobot.2011@gmail.com  
+- **MakerWorld:** https://makerworld.com/ko/@user_1850621605
