@@ -55,8 +55,7 @@
 ## 📬 Contact
 
 - **Email:** harry.srobot.2011@gmail.com  
-- **MakerWorld:** https://makerworld.com/ko/@user_1850621605  
-- **Website:** https://harrison.jason.pe.kr/
+- **MakerWorld:** https://makerworld.com/ko/@HSU_LEE
 
 ---
 
