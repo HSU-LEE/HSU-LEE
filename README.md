@@ -47,9 +47,8 @@
 | 2024 | International Robot Olympiad Korea Finals (Creative, Daegu) | 🥈 2nd Place (Chairman Award) |
 | 2024 | IRO National Qualifier (Creative, Daejeon) | 🥇 1st Place (Superintendent Award) |
 | 2024 | IRO Finals Robot Soccer | 🥉 3rd Place |
-| 2024 | K-Robot Competition with Robit | 🎖️ Honorable Mention |
-| 2023 | IRO Finals Robot Gathering | 🎖️ Honorable Mention |
-
+| 2024 | K-Robot Competition with Robit | 🎖️ 4th Place |
+| 2023 | IRO Finals Robot Gathering | 🎖️ 4th Place |
 ---
 
 ## 📬 Contact
